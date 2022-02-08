@@ -11,7 +11,9 @@ This weeks challenge activity tasked us with refactoring a semi-complete website
 All HTML code, stylesheet, and images were all supplied by the MSU Bootcamp gitlab. I went in and cut down on unecessary and duplicated CSS; I renamed multiple div elements to better fit modern accepted HTML syntax; I added alt text to all images; I fixed links on the index page.
 
 ## Page Details
-TEST
+
+<img src=./assets/images/page-screenshot.png><br/>
+Link: https://cory-hall.github.io/improved-horiseon/
 
 ## Author
 
